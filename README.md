@@ -3,7 +3,7 @@ Profile page
 
 @@ -4,14 +4,6 @@ There is the land where I share toys and take a break.
 
-I'm learning building tools and AST recently.
+I'm currently learning Nodejs and react.
 
 📫  How to reach me?
 
@@ -14,3 +14,9 @@ I'm learning building tools and AST recently.
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adis-aljic&layout=compact&hide=css,html)
+
+![Adis's github stats](https://github-readme-stats.vercel.app/api?username=adis-aljic&count_private=true&show_icons=true&theme=onedark)
+
+</details>
