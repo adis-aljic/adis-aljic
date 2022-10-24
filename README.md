@@ -1,4 +1,6 @@
- There is the land where I share toys and take a break.
+<div>
+
+There is the land where I share toys and take a break.
 
 I'm currently learning Nodejs and react.
 
@@ -17,3 +19,5 @@ I'm currently learning Nodejs and react.
 ![Adis's github stats](https://github-readme-stats.vercel.app/api?username=adis-aljic&count_private=true&show_icons=true&theme=onedark)
 
 </details>
+
+ <div>
