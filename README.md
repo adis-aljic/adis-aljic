@@ -1,7 +1,4 @@
-# profile
-Profile page
-
-@@ -4,14 +4,6 @@ There is the land where I share toys and take a break.
+ There is the land where I share toys and take a break.
 
 I'm currently learning Nodejs and react.
 
