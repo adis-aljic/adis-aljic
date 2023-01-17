@@ -8,8 +8,8 @@ I'm currently learning React.
 
 
 [![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@adis-aljic&color=5b5b5b&labelColor=5b5b5b)](https://github.com/adis-aljic)
-[![linkedin](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=@adis-aljic&color=5b5b5b&labelColor=5b5b5b)]https://www.linkedin.com/in/adis-aljic-056b13239/)
- [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=@adis-aljic&color=5b5b5b&labelColor=5b5b5b)]((adis.qm@gmail.com)
+[![linkedin](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=@adis-aljic&color=5b5b5b&labelColor=5b5b5b)](https://www.linkedin.com/in/adis-aljic-056b13239/)
+ [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=@adis-aljic&color=5b5b5b&labelColor=5b5b5b)](adis.qm@gmail.com)
 
 <details>
 <summary>⚡️ More about my coding life</summary>
